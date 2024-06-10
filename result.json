@@ -1,0 +1,44 @@
+{
+    "result": [
+        {
+            "index": "2",
+            "description": "[5]"
+        },
+        {
+            "index": "4",
+            "description": "[4]"
+        },
+		{
+            "index": "5",
+            "description": "[6]"
+        },
+		{
+            "index": "6",
+            "description": "[39.46]"
+        },
+		{
+            "index": "7",
+            "description": "['成功切换成功率']"
+        },
+		{
+            "index": "8",
+            "description": "[59.78]"
+        },
+		{
+            "index": "9",
+            "description": "['否']"
+        },
+		{
+            "index": "10",
+            "description": "[59.78,51.71,50.88]"
+        },
+		{
+            "index": "24",
+            "description": "['2024-03-25 04:00:00','2024-03-26 11:00:00','2024-03-26 20:00:00']"
+        },
+		{
+            "index": "28",
+            "description": "[3,1]"
+        }
+    ]
+}
